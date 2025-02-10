@@ -30,7 +30,7 @@ The default configurations are saved at `model_config.yaml`. If you would like c
 If you have questions, please contact `menglu.li@torontomu.ca`.
 ## Citation
 ```
-@inproceedings{li24oa_interspeech,
+@inproceedings{li24_interpretable,
   title     = {Interpretable Temporal Class Activation Representation for Audio Spoofing  Detection},
   author    = {Menglu Li and Xiao-Ping Zhang},
   year      = {2024},
